@@ -24,13 +24,4 @@
     </div>
 </div>
 
----
 
-### 📌 Como usar
-
-1.  **Substitua o caminho da imagem:** Troque `'caminho/para/sua/imagem.jpg'` pelo **URL** ou **caminho relativo** da imagem de fundo que você quer usar.
-2.  **Ajuste a altura:** Se a seção do cabeçalho precisar ser mais alta ou mais baixa, modifique o valor de `height: 300px;` no primeiro `<div>`.
-
-O restante do seu `README.md` (títulos, listas, etc.) pode ser escrito **abaixo da linha horizontal (`---`)** em Markdown normal.
-
-Gostaria de ajuda para criar um caminho para uma imagem de fundo, como enviá-la para o GitHub, ou prefere adicionar mais seções ao seu `README`?
